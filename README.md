@@ -12,11 +12,12 @@
 Inova Fusca
 
 ## 👨‍🎓 Integrantes:
-- [WELLIGTON NASCIMENTO DE BRITO - RM 552157](https://www.linkedin.com/company/inova-fusca)
-- [CELESTE LEITE DOS SANTOS - RM 559312](https://www.linkedin.com/company/inova-fusca)
-- [EDUARDO CARVALHO - RM 95585](https://www.linkedin.com/company/inova-fusca)
-- [LUMA SANTOS DE OLIVEIRA - RM 560146](https://www.linkedin.com/company/inova-fusca)
-- [RICARDO ARAÚJO DE OLIVEIRA - RM 561182](https://www.linkedin.com/company/inova-fusca)
+## 👨‍🎓 Integrantes: 
+- <a href="https://www.linkedin.com/in/caiorcastro/">Caio Rodrigues Castro</a> 
+- <a href="https://www.linkedin.com/in/celeste-leite-dos-santos-66352a24b/">Celeste Leite dos Santos</a> 
+- <a href="https://www.linkedin.com/in/digitalmanagerfelipesoares/">Felipe Soares Nascimento</a>
+- <a href="https://www.linkedin.com/in//">Wellington Nascimento de Brito</a>
+
 
 ## 👩‍🏫 Professores:
 ### Tutor(a)
