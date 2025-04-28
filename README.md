@@ -7,11 +7,12 @@
 <br>
 
 # 🌾 Challenge Ingredion - Sprint 2
+## Desenvolvimento do Modelo de IA para Previsão de Produtividade
 
-## 📚 Nome do Grupo
-Inova Fusca
+## Nome do grupo
 
-## 👨‍🎓 Integrantes:
+## Grupo 9
+
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/caiorcastro/">Caio Rodrigues Castro</a> 
 - <a href="https://www.linkedin.com/in/celeste-leite-dos-santos-66352a24b/">Celeste Leite dos Santos</a> 
@@ -19,11 +20,12 @@ Inova Fusca
 - <a href="https://www.linkedin.com/in//">Wellington Nascimento de Brito</a>
 
 
+
 ## 👩‍🏫 Professores:
-### Tutor(a)
-- Nome do Tutor
+### Tutor(a) 
+- <a href="https://www.linkedin.com/in/leonardoorabona/">Leonardo Ruiz Orabona</a>
 ### Coordenador(a)
-- Nome do Coordenador
+- <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi Chiovato</a>
 
 ---
 
