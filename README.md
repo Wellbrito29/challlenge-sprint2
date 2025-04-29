@@ -21,6 +21,11 @@
 
 
 
+## Video
+
+https://youtu.be/8uVqWHpWkhI
+
+
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
 - <a href="https://www.linkedin.com/in/leonardoorabona/">Leonardo Ruiz Orabona</a>
@@ -38,6 +43,7 @@ O projeto visa transformar dados brutos em **insights preditivos** e identificar
 ---
 
 ## 🛠️ 1. Como a Solução Resolve o Problema
+
 
 O projeto foi dividido nas seguintes etapas:
 
